@@ -1,0 +1,50 @@
+#vendingHeader {
+	text-align: center;
+}
+
+#vendingItems {
+	padding: 10px;
+	width: 67%;
+}
+
+#vendingMenus {
+	width: 33%;
+}
+
+.singleItem {
+	color: white;
+	background-color: silver;
+}
+
+.singleItem:hover {
+	color: silver;
+	background-color: white;
+	cursor: pointer;
+}
+
+#vendingMenus {
+	text-align: center;
+}
+
+.changeButton {
+	margin: 2px;
+	width: 45%;
+}
+
+input {
+	margin-bottom: 5px;
+}
+
+#changeOut {
+	display: inline-block;
+	width: 150px;
+	height: 200px;
+	margin-bottom: 5px;
+}
+
+#mainMessage {
+	display: inline-block;
+	width: 150px;
+	height: 100px;
+	margin-bottom: 5px;
+}
